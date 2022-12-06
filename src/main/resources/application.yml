@@ -1,0 +1,12 @@
+# These values ypu will find in the personal confluence page
+
+FORGEROCK_ISS:
+FORGEROCK_KEYSTORE:
+
+TENANT_ID:
+AZURE_ISS:
+AZURE_KEYSTORE:
+
+logging:
+  level:
+    root: INFO
